@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexHatt
+- 👀 I’m interested in: Creating simple applications in Replit.
+- 🌱 I’m currently learning: The basics of programming (Replit/Python).
+- 💞️ I’m looking to collaborate on: Small project which do not require much skill.
+- 📫 How to reach me: E-mail at 19ahatt@trinity.newburyacademytrust.org
